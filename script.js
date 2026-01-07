@@ -3,7 +3,7 @@ function gerarNumeros(quantidadeJogos, quantidadeNumeros){
     while (meuJogo.length < quantidadeJogos) {  
         const numeros = []
         while (numeros.length < quantidadeNumeros) {
-            let n = Math.floor(Math.random() * 60) + 1
+            let n = Math.floor(Math.random() * 61)
             if (!numeros.includes(n)) {
                 numeros.push(n)
             }
