@@ -9,3 +9,13 @@ Com ele, é possível:
 - 📈 Ter os números **organizados automaticamente em ordem crescente**
 
 O objetivo é facilitar a criação de apostas de forma rápida, prática e organizada.
+
+---
+
+## 🚀 Como obter o projeto
+
+Clone o repositório
+
+```bash
+git clone https://github.com/Daniel9189/dreamNumbersJS.git
+cd dreamNumbersJS
